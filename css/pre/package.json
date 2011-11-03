@@ -1,0 +1,25 @@
+{
+    "name": "Pre",
+    "filename": "pre.less",
+    "version": "0",
+    "description": "An enjoyable css framework use less.",
+    "homepage": "https://github.com/yuanyan/pre",
+    "keywords": [
+       "pre",
+       "less"
+       "css framework"
+   ],
+   "maintainers": [
+       {
+           "name": "Yuanyan",
+           "web": "http://madscript.com/"
+       }
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/yuanyan/pre/blob/master/dist/pre.less"
+       }
+   ]
+
+}
